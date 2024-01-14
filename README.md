@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 ## 🐣→💡→🚀 About me
 
 - 💬 You can call **Vincent**.
-- 🌱 I’m currently study in [UBC Master of Data Science](https://masterdatascience.ubc.ca/)
+- 🌱 I’m currently study @[UBC Master of Data Science](https://masterdatascience.ubc.ca/)
 - 🔭 Projects I’m currently working on [MonkeyCoderGPT](https://github.com/zhang-shizhe/MonkeyCoderGPT), [Extractive-QABot](https://github.com/zhang-shizhe/Extractive-QABot)
 
 <!-- - 👯 I’m looking to collaborate on ...
