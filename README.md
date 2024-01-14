@@ -6,13 +6,7 @@ Here are some ideas to get you started:
 
 
 -->
-<<<<<<< HEAD
 # Hi there, This is Shizhe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-=======
-# Hi there, My name is Shizhe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
->>>>>>> f60e937467d972ce17ebd59aa3af97407dcafd5f
-
-
 #### 🐣→💡→🚀 About me
 
 - 💬 You can call **Vincent**.
