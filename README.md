@@ -19,14 +19,13 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...-->
 
 - 📫 How to reach me: 
-<div style="margin-left: 80px;">
-  <a href="https://www.linkedin.com/in/shizhe-zhang/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="height:25px" />
-  </a>
-  <a href="mailto:shizhe_zhang@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&amp;logo=microsoftoutlook&amp;logoColor=white" style="height:25px" />
-  </a>
-</div>
+
+> <a href="https://www.linkedin.com/in/shizhe-zhang/" target="_blank">
+>   <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" />
+> </a>
+> <a href="mailto:shizhe_zhang@outlook.com" target="_blank">
+>   <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook Badge" />
+> </a>
 
 
 
