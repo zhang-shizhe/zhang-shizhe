@@ -6,27 +6,30 @@ Here are some ideas to get you started:
 
 
 -->
+<<<<<<< HEAD
 # Hi there, This is Shizhe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+=======
+# Hi there, My name is Shizhe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+>>>>>>> f60e937467d972ce17ebd59aa3af97407dcafd5f
 
 
 #### 🐣→💡→🚀 About me
 
 - 💬 You can call **Vincent**.
-- 🌱 I’m currently study in [UBC Master of Data Science](https://masterdatascience.ubc.ca/)
+- 🌱 I’m currently study @[UBC Master of Data Science](https://masterdatascience.ubc.ca/)
 - 🔭 Projects I’m currently working on [MonkeyCoderGPT](https://github.com/zhang-shizhe/MonkeyCoderGPT), [Extractive-QABot](https://github.com/zhang-shizhe/Extractive-QABot)
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
 
 - 📫 How to reach me: 
-<div style="margin-left: 40px;">
-  <a href="https://www.linkedin.com/in/shizhe-zhang/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="height:25px" />
-  </a>
-  <a href="mailto:shizhe_zhang@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&amp;logo=microsoftoutlook&amp;logoColor=white" style="height:25px" />
-  </a>
-</div>
+
+> <a href="https://www.linkedin.com/in/shizhe-zhang/" target="_blank">
+>   <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" />
+> </a>
+> <a href="mailto:shizhe_zhang@outlook.com" target="_blank">
+>   <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook Badge" />
+> </a>
 
 <details>
   <summary><b>🔧 Tech Stack</b></summary>
