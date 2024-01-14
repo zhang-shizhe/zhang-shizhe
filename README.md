@@ -19,9 +19,14 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...-->
 
 - 📫 How to reach me: 
-     <p><a href="https://www.linkedin.com/in/shizhe-zhang/"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="height:25px" /></a></p>
-     
-    <p><a href="mailto:shizhe_zhang@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&amp;logo=microsoftoutlook&amp;logoColor=white" style="height:25px" /></a></p>
+<div style="margin-left: 40px;">
+  <a href="https://www.linkedin.com/in/shizhe-zhang/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="height:25px" />
+  </a>
+  <a href="mailto:shizhe_zhang@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&amp;logo=microsoftoutlook&amp;logoColor=white" style="height:25px" />
+  </a>
+</div>
 
 
 
