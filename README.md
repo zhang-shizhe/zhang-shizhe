@@ -11,14 +11,17 @@ Here are some ideas to get you started:
 
 ## 🐣→💡→🚀 About me
 
+- 💬 You can call **Vincent**.
 - 🌱 I’m currently study in [UBC Master of Data Science](https://masterdatascience.ubc.ca/)
 - 🔭 Projects I’m currently working on [MonkeyCoderGPT](https://github.com/zhang-shizhe/MonkeyCoderGPT), [Extractive-QABot](https://github.com/zhang-shizhe/Extractive-QABot)
-- 💬 You can call **Vincent**.
+
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
 
-📫 How to reach me: 
-<p><a href="https://www.linkedin.com/in/shizhe-zhang/"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="height:25px" /></a></p>
+- 📫 How to reach me: 
+     <p><a href="https://www.linkedin.com/in/shizhe-zhang/"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="height:25px" /></a></p>
+     
+    <p><a href="mailto:shizhe_zhang@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&amp;logo=microsoftoutlook&amp;logoColor=white" style="height:25px" /></a></p>
 
 
 
