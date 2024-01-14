@@ -6,10 +6,10 @@ Here are some ideas to get you started:
 
 
 -->
-# Hi there, My name is Vincent <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# Hi there, This is Shizhe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 
-## 🐣→💡→🚀 About me
+#### 🐣→💡→🚀 About me
 
 - 💬 You can call **Vincent**.
 - 🌱 I’m currently study in [UBC Master of Data Science](https://masterdatascience.ubc.ca/)
@@ -27,8 +27,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&amp;logo=microsoftoutlook&amp;logoColor=white" style="height:25px" />
   </a>
 </div>
-
-
 
 <details>
   <summary><b>🔧 Tech Stack</b></summary>
