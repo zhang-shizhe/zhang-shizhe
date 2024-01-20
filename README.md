@@ -6,10 +6,10 @@ Here are some ideas to get you started:
 
 
 -->
-# Hi there, This is Shizhe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# Hi there! This is Shizhe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 #### 🐣→💡→🚀 About me
 
-- 💬 You can call **Vincent**.
+- 💬 You can call em **Vincent**.
 - 🌱 I’m currently study @[UBC Master of Data Science](https://masterdatascience.ubc.ca/)
 - 🔭 Projects I’m currently working on [MonkeyCoderGPT](https://github.com/zhang-shizhe/MonkeyCoderGPT), [Extractive-QABot](https://github.com/zhang-shizhe/Extractive-QABot)
 
