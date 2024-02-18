@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 - 💬 You can call me **Vincent**.
 - 🌱 I’m currently studying @[UBC Master of Data Science](https://masterdatascience.ubc.ca/)
-- 🔭 Projects I’m currently working on [MonkeyCoderGPT](https://github.com/zhang-shizhe/MonkeyCoderGPT), [Extractive-QABot](https://github.com/zhang-shizhe/Extractive-QABot)
+- 🔭 Projects I’m currently working on [PocketRecommender](https://github.com/zhang-shizhe/PocketRecommender), [Extractive-QABot](https://github.com/zhang-shizhe/Extractive-QABot)
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
