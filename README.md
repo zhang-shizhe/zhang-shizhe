@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 #### 🐣→💡→🚀 About me
 
 - 💬 You can call me **Vincent**.
-- 🌱 I’m currently studying @[UBC Master of Data Science](https://masterdatascience.ubc.ca/)
+- 🌱 I graduated @[UBC Master of Data Science](https://masterdatascience.ubc.ca/)
 - 🔭 Projects I’m currently working on [PocketRecommender](https://github.com/zhang-shizhe/PocketRecommender), [Bookshelf-QABot](https://github.com/zhang-shizhe/Bookshelf-QABot)
 
 <!-- - 👯 I’m looking to collaborate on ...
